@@ -1,4 +1,4 @@
-# NEW SOURCES dataset
+# Sources dataset
 
 this files is a concatenation of all plaintext files from multiple public open source projects:
 
